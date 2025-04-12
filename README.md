@@ -9,7 +9,7 @@ This dataset was created for our research by combining multiple datasets contain
 
 News Content Breakdown (by category):
 
-Real News: 43,372
-Fake News: 31,340
-AI-Generated News: 80,409
-Toal News: 155,121
+Real News: 43,372,
+Fake News: 31,340,
+AI-Generated News: 80,409,
+Total News: 155,121
