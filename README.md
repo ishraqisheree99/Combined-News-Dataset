@@ -7,4 +7,11 @@ This dataset was created for our research by combining multiple datasets contain
 4) ISOT Dataset https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
 5) TurningBench Dataset https://turingbench.ist.psu.edu/
 
-<pre> ### News Content Breakdown (by category): ``` Real News : 43,372 Fake News : 31,340 AI-Generated News : 80,409 Total News : 155,121 ``` </pre>
+### News Content Breakdown (by category):
+
+| Category           | Count   |
+|--------------------|---------|
+| Real News          | 43,372  |
+| Fake News          | 31,340  |
+| AI-Generated News  | 80,409  |
+| **Total News**     | **155,121** |
